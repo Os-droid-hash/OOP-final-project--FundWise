@@ -181,6 +181,7 @@ This side allows applicants to interact with their own data.
 * Input validation is basic and may not handle all edge cases
 * File handling uses a simple text format instead of a database
 * The system is designed for single-user interaction
+* Each applicant can complete up to four installment payments. Upon completion of the fourth installment, the system automatically updates the status to ‘Completed’.
 
 ---
 
