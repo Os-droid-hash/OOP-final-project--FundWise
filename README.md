@@ -1,14 +1,17 @@
-# 📘 FundWise – Scholarship Management System
+**Prepared By: _Osailah Atif 25K-0789_**
+
+
+# FundWise – Scholarship Management System
 
 ---
 
-## 🔷 Project Title
+## Project Title
 
 **FundWise: Scholarship Management System**
 
 ---
 
-## 🔷 Project Description
+## Project Description
 
 FundWise is a console-based Scholarship Management System developed in C++ using Object-Oriented Programming concepts. The main idea behind this project is to simplify the process of managing scholarship applicants, evaluating their eligibility, and tracking the distribution of funds.
 
@@ -18,7 +21,7 @@ Overall, the project combines real-world functionality with core programming con
 
 ---
 
-## 🔷 Group Members
+## Group Members
 
 | Name            | Student ID  |
 | --------------- | ----------  |
@@ -28,7 +31,7 @@ Overall, the project combines real-world functionality with core programming con
 
 ---
 
-## 🔷 Use Cases of the System
+## Use Cases of the System
 
 The following use cases describe how FundWise is actually used in practice. They reflect the main interactions between the admin and applicants, based directly on how the system has been implemented.
 
@@ -90,7 +93,7 @@ This ensures continuity, so the admin does not need to reenter data every time t
 
 ---
 
-## 🔷 Instructions to Compile the Project
+## Instructions to Compile the Project
 
 ### Using Dev C++:
 
@@ -117,7 +120,7 @@ This ensures continuity, so the admin does not need to reenter data every time t
 
 ---
 
-## 🔷 Instructions to Run the Project
+## Instructions to Run the Project
 
 1. After compiling, click:
 
@@ -133,9 +136,9 @@ This ensures continuity, so the admin does not need to reenter data every time t
 
 ---
 
-## 🔷 Instructions to Use the System
+## Instructions to Use the System
 
-### 🔹 Admin Side
+### Admin Side
 
 * Login using admin credentials
 * Access options to:
@@ -150,7 +153,7 @@ This side is mainly responsible for managing the entire system.
 
 ---
 
-### 🔹 Applicant Side
+### Applicant Side
 
 * Login using registered credentials
 * View personal details
@@ -161,7 +164,7 @@ This side allows applicants to interact with their own data.
 
 ---
 
-## 🔷 Assumptions
+## Assumptions
 
 * Admin credentials are predefined in the system
 * Each applicant has a unique ID
@@ -171,7 +174,7 @@ This side allows applicants to interact with their own data.
 
 ---
 
-## 🔷 Limitations
+## Limitations
 
 * The system is console-based (no graphical interface)
 * Admin login is hardcoded and not stored in a file
@@ -181,7 +184,7 @@ This side allows applicants to interact with their own data.
 
 ---
 
-## 🔷 Technologies Used
+## Technologies Used
 
 * C++ Programming Language
 * Object-Oriented Programming (OOP)
@@ -190,7 +193,7 @@ This side allows applicants to interact with their own data.
 
 ---
 
-## 🔷 Conclusion
+## Conclusion
 
 This project demonstrates how Object-Oriented Programming concepts can be applied to build a practical system. FundWise not only manages applicant data efficiently but also introduces structured design and persistent storage.
 
